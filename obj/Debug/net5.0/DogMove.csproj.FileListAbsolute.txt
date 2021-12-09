@@ -1,0 +1,16 @@
+D:\Download\DogMove\bin\Debug\net5.0\DogMove.exe
+D:\Download\DogMove\bin\Debug\net5.0\DogMove.deps.json
+D:\Download\DogMove\bin\Debug\net5.0\DogMove.runtimeconfig.json
+D:\Download\DogMove\bin\Debug\net5.0\DogMove.runtimeconfig.dev.json
+D:\Download\DogMove\bin\Debug\net5.0\DogMove.dll
+D:\Download\DogMove\bin\Debug\net5.0\ref\DogMove.dll
+D:\Download\DogMove\bin\Debug\net5.0\DogMove.pdb
+D:\Download\DogMove\obj\Debug\net5.0\DogMove.csproj.AssemblyReference.cache
+D:\Download\DogMove\obj\Debug\net5.0\DogMove.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\DogMove\obj\Debug\net5.0\DogMove.AssemblyInfoInputs.cache
+D:\Download\DogMove\obj\Debug\net5.0\DogMove.AssemblyInfo.cs
+D:\Download\DogMove\obj\Debug\net5.0\DogMove.csproj.CoreCompileInputs.cache
+D:\Download\DogMove\obj\Debug\net5.0\DogMove.dll
+D:\Download\DogMove\obj\Debug\net5.0\ref\DogMove.dll
+D:\Download\DogMove\obj\Debug\net5.0\DogMove.pdb
+D:\Download\DogMove\obj\Debug\net5.0\DogMove.genruntimeconfig.cache
